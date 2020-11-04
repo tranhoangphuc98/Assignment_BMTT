@@ -1,0 +1,4 @@
+﻿  AssTest.cpp
+c:\users\admin\documents\visual studio 2015\projects\ass-project\ass-project\asstest.cpp(23): warning C4242: '=': conversion from 'int' to 'CryptoPP::byte', possible loss of data
+  Ass-Project.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\Projects\Ass-Project\Debug\Ass-Project.exe
+  Ass-Project.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\Projects\Ass-Project\Debug\Ass-Project.pdb (Partial PDB)
